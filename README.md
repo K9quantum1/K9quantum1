@@ -56,7 +56,7 @@ class DenisZiegler:
 | 🏛️ Institution | 📚 Degree | 📅 Year |
 |:---|:---|:---|
 | Florida Atlantic University | **M.S. Artificial Intelligence** | Expected 2026 |
-| Florida Atlantic University | **B.A. Computer Science** (AI Minor) | Expected 2025 |
+| Florida Atlantic University | **B.A. Computer Science** (AI Minor) | Completed 2025 |
 | FAU Precision Medicine Hackathon | Participant | 2024 |
 
 </div>
@@ -94,9 +94,8 @@ class DenisZiegler:
 
 ### 🛢️ Data & Cloud
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+
 
 ### 🛠️ Dev Tools
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
